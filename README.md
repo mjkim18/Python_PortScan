@@ -2,7 +2,8 @@
 
 ## What is this?
 
-TODO: Explain what this tool is and why someone would want to use this
+Port Scan is a tool used to determine which ports are open on a network that could be sending and receiving data.
+Port Scan is used to test and identify vulnerabilities of a network and identify any potential weak entry points
 
 ## Getting Started
 
